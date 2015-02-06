@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html ng-app>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Friday CoOp Angular.js demo</title>
+	
+	<!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body ng-init="names=[{name:'One',city:'Memphis'},{name:'Two',city:'Phoenix'},{name:'Three',city:'New York'}]">
+	Name: 
+	<br/>
+	<input type="text" ng-model="filterTxt" /> {{ filterTxt }}
+
+	<h3> Looping test </h3>
+	<ul>
+		<li ng-repeat="item in names | filter:filterTxt | orderBy:'name'"> -- {{ item.name }} -- {{ item.city }} </li>
+	</ul>
+
+
+	<script src="js/angular.min.js"> </script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>
+
