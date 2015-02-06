@@ -3,6 +3,9 @@ Getting Started with Bootstrap
 https://www.youtube.com/watch?v=no-Ntkc836w
 
 
+jake
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl erat, ornare id ex et, consequat fermentum neque. Fusce eleifend vitae velit ac vestibulum. Quisque lacinia porta leo, sed molestie tortor. Donec auctor ut leo quis cursus. Donec bibendum elit risus, non ullamcorper ipsum rutrum sed. Quisque finibus lectus eu ex hendrerit, ac dictum sapien malesuada. Donec eget lectus lacinia, laoreet sem id, mattis lacus. Phasellus diam odio, fermentum non dolor non, rhoncus commodo sem.
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut sagittis nulla id tellus eleifend, at tristique ipsum volutpat. Integer ornare metus id congue pulvinar. Ut suscipit erat a euismod ultrices. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ac elementum enim, sed euismod tortor. Morbi iaculis consectetur lacus rhoncus cursus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis quam leo, maximus in diam a, vestibulum fermentum ligula. Praesent ultrices tortor ornare tempus pretium. Sed lectus eros, placerat ut diam cursus, imperdiet luctus augue. Aenean et neque quis neque tristique volutpat. Donec leo risus, rutrum nec sem sit amet, rutrum dictum justo.
@@ -11,4 +14,4 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 Sed egestas aliquam augue, ac ultricies lorem viverra vitae. Vivamus nisi nunc, porttitor pretium metus quis, auctor facilisis arcu. Praesent neque leo, consectetur quis lacus eu, aliquet facilisis sem. Morbi vitae congue ante. Aliquam feugiat velit nec magna dapibus, vitae fringilla enim tempor. Duis vehicula ornare vehicula. Quisque pretium velit quis pellentesque efficitur. Mauris eget purus facilisis, dignissim lectus vel, pharetra quam. Proin et tortor in leo fermentum dictum. Nulla sed pellentesque odio. Aliquam id massa dignissim, consectetur metus et, aliquam sem. Nullam scelerisque sem eget quam commodo, quis mattis velit feugiat. Aliquam bibendum sem non nibh iaculis laoreet. Donec tincidunt accumsan leo, at egestas orci placerat tristique.
 
-Quisque diam nibh, lacinia a vulputate non, aliquam vitae erat. Donec consectetur gravida urna sit amet efficitur. Praesent erat urna, commodo sit amet dapibus vitae, hendrerit et lorem. Aenean nec leo orci. Proin a lorem efficitur justo finibus pellentesque. Quisque maximus, magna sed varius condimentum, urna magna sagittis sapien, tempus placerat lacus magna eu sapien. Aliquam porttitor facilisis condimentum. 
+Quisque diam nibh, laciniaddf vulputate non, aliquam vitae erat. Donec consectetur gravida urna sit amet efficitur. Praesent erat urna, commodo sit amet dapibus vitae, hendrerit et lorem. Aenean nec leo orci. Proin a lorem efficitur justo finibus pellentesque. Quisque maximus, magna sed varius condimentum, urna magna sagittis sapien, tempus placerat lacus magna eu sapien. Aliquam porttitor facilisis condimentum. 
